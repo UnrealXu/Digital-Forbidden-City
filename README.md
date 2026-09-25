@@ -5,6 +5,8 @@ Explore the Forbidden City in a digital world, from its palace architecture to i
 🎬 [Watch the project demo (Bilibili)](https://www.bilibili.com/video/BV1YJaT6sE56/)  
 ⬇️ [Download for Windows](https://github.com/UnrealXu/Digital-Forbidden-City/releases/latest)
 
+📊 [Astra vs Seed Evolving — comparison review (Chinese)](https://unrealxu.github.io/Digital-Forbidden-City/)
+
 ## Features
 
 - 3D scenes of the Forbidden City's central axis and palace complex
@@ -28,6 +30,8 @@ Requires Windows x64 and a graphics card that supports DirectX 12 / Shader Model
 
 🎬 [观看项目演示视频（B 站）](https://www.bilibili.com/video/BV1YJaT6sE56/)  
 ⬇️ [下载 Windows 版本](https://github.com/UnrealXu/Digital-Forbidden-City/releases/latest)
+
+📊 [Astra 与 Seed Evolving · 数字故宫对比测评](https://unrealxu.github.io/Digital-Forbidden-City/)
 
 ## 项目内容
 
