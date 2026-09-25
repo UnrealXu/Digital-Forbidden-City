@@ -10,6 +10,6 @@ Windows 运行版下载：[前往最新版本](https://github.com/UnrealXu/Digit
 
 需要 Windows x64，以及支持 DirectX 12 / Shader Model 6 的显卡。如果提示缺少 Visual C++ 运行库，请运行包内 `Engine\Extras\Redist\en-us\vc_redist.x64.exe`。
 
-此仓库仅提供已编译的 Unreal Engine Shipping 运行版，不包含 C++ 项目源码、原始工程文件或调试符号。游戏资源会随运行包分发，具备技术能力的用户仍可能提取或分析这些资源。第三方声明见包内 `NOTICES.txt`。
+欢迎体验数字故宫，探索紫禁城数字场景。第三方声明见包内 `NOTICES.txt`。
 
 ZIP SHA-256: `AFCC4EB4F213F2490BC7F0B454BDC806968471E2F1F477F9CBD130F4E260D72E`
