@@ -22,6 +22,14 @@ Explore the Forbidden City in a digital world, from its palace architecture to i
 
 Requires Windows x64 and a graphics card that supports DirectX 12 / Shader Model 6.
 
+## Open the Unreal Project
+
+1. Clone or download this repository.
+2. Install Unreal Engine 5.8 and the Windows C++ development tools.
+3. Open `Trae_UE_Project.uproject`. Allow Unreal Engine to build the project modules and compile shaders on first launch.
+
+The editable levels, models, materials, and original GLB model files are in `Content/ForbiddenCity/`. The C++ gameplay code is in `Source/`. The Windows build is available separately under Releases.
+
 ---
 
 # 数字故宫
@@ -47,3 +55,11 @@ Requires Windows x64 and a graphics card that supports DirectX 12 / Shader Model
 3. 双击 `Trae_UE_Project.exe` 启动。
 
 运行需要 Windows x64 和支持 DirectX 12 / Shader Model 6 的显卡。
+
+## 打开 Unreal 项目
+
+1. 克隆或下载本仓库。
+2. 安装 Unreal Engine 5.8 和 Windows C++ 开发工具。
+3. 打开 `Trae_UE_Project.uproject`。首次启动时，让 Unreal Engine 编译项目模块和着色器。
+
+可编辑的关卡、模型、材质及原始 GLB 模型位于 `Content/ForbiddenCity/`，C++ 玩法代码位于 `Source/`。Windows 运行版仍可在 Releases 中下载。

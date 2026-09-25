@@ -1,0 +1,30 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Local IDE files
+.vs/
+.idea/
+*.sln
+*.slnx
+*.suo
+*.opensdf
+*.sdf
+
+# Local tools and release builds
+ue-mcp.local.yml
+Pack/
+PublicRelease/
+ReleaseShipping/
+
+# Generated files inside plugins
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
+
+# OS files
+Thumbs.db
+.DS_Store
